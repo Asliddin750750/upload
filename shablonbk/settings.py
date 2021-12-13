@@ -41,7 +41,8 @@ INSTALLED_APPS = [
     'main',
     'upload',
     'file',
-    'file2'
+    'file2',
+    'file3'
 ]
 
 MIDDLEWARE = [
